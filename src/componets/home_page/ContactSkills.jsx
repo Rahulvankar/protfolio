@@ -45,7 +45,7 @@ const ContactSkills = () => {
     emailjs
       .sendForm(
         'service_i64np91', // Replace with your EmailJS Service ID
-        // 'template_6ozwit8', // Replace with your EmailJS Template ID
+        'template_6ozwit8', // Replace with your EmailJS Template ID
         form.current,
         'uyz-pUjvCiCu9KfF_' // Replace with your EmailJS Public Key
       )

@@ -26,23 +26,23 @@ const Home_page = () => {
 
           <div className="social-media">
             <div className="bg-icon">
-              <a href="#"><i className="bx bxl-instagram"></i></a>
+              <a href="https://www.instagram.com/r_p_varma/?igsh=MWNmcmJscnVuYXRhZg%3D%3D#"><i className="bx bxl-instagram"></i></a>
               <span></span>
             </div>
 
             <div className="bg-icon">
-              <a href="#"><i className="bx bxl-github"></i></a>
+              <a href="https://github.com/Rahulvankar"><i className="bx bxl-github"></i></a>
               <span></span>
             </div>
 
             <div className="bg-icon">
-              <a href="#"><i className="bx bxl-twitter"></i></a>
+              <a href="https://x.com/VankarRahu55198?t=ld1_ZUYFaZFJdhpEovIMsA&s=09"><i className="bx bxl-twitter"></i></a>
               <span></span>
             </div>
 
             <div className="bg-icon">
-              <a href="#"><i className="bx bxl-facebook"></i></a>
-              <span></span>
+            <a href="https://www.linkedin.com/in/vankar-rahul-788b20276/"><i className="bx bxl-linkedin"></i></a>
+            <span></span>
             </div>
           </div>
         </div>
