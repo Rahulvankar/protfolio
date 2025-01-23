@@ -4,7 +4,7 @@ const Home_page = () => {
   return (
     <>
       <section className="home" id="home">
-        <div className="hero-info w-9/12">
+        <div className="hero-info sm:w-9/12 ">
           <h3>Welcome To my World</h3>
           <h1>Hi I'm Rahul Vankar</h1>
 
