@@ -1079,7 +1079,8 @@ footer{
         display: none;
     }
     .img-hero img{
-        width: 100%;
+        width: 90%;
+        margin: auto;
     }
     .text-animate{
         width: 23.8rem;
