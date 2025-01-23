@@ -21,6 +21,7 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
+    z-index: 5;
 }
 
 .chat-header {
