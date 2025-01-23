@@ -36,19 +36,19 @@ const Portfolio = () => {
           All Work
         </button>
         <button 
-          className={`button text-lg rounded-md m-2 px-2 border border-gray-500 ${activeFilter === 'web' ? 'mixitup-control-active' : ''}`} 
+          className={`button text-lg rounded-md m-2 px-2 border border-gray-500 ${activeFilter === 'reactjs' ? 'mixitup-control-active' : ''}`} 
           onClick={() => handleFilterClick('reactjs')}
         >
           React js Projects
         </button>
         <button 
-          className={`button text-lg rounded-md m-2 px-2 border border-gray-500  ${activeFilter === 'uiux' ? 'mixitup-control-active' : ''}`} 
+          className={`button text-lg rounded-md m-2 px-2 border border-gray-500  ${activeFilter === 'javascript' ? 'mixitup-control-active' : ''}`} 
           onClick={() => handleFilterClick('javascript')}
         >
           Javascript Projects
         </button>
         <button 
-          className={`button text-lg rounded-md m-2 px-2 border border-gray-500 ${activeFilter === 'branding' ? 'mixitup-control-active' : ''}`} 
+          className={`button text-lg rounded-md m-2 px-2 border border-gray-500 ${activeFilter === 'webdising' ? 'mixitup-control-active' : ''}`} 
           onClick={() => handleFilterClick('webdising')}
         >
           Web Design Projects
